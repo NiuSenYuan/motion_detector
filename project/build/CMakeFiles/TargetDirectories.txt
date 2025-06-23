@@ -1,0 +1,3 @@
+/home/niuniu/project/build/CMakeFiles/edit_cache.dir
+/home/niuniu/project/build/CMakeFiles/rebuild_cache.dir
+/home/niuniu/project/build/CMakeFiles/MotionDetection.dir
